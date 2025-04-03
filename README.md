@@ -1,0 +1,7 @@
+![2.png](..%2F..%2F..%2FPictures%2FSaved%20Pictures%2Fscreenshots%20of%20apps%2Fjournal%20app%2F2.png)
+![3.png](..%2F..%2F..%2FPictures%2FSaved%20Pictures%2Fscreenshots%20of%20apps%2Fjournal%20app%2F3.png)
+![4.png](..%2F..%2F..%2FPictures%2FSaved%20Pictures%2Fscreenshots%20of%20apps%2Fjournal%20app%2F4.png)
+![5.png](..%2F..%2F..%2FPictures%2FSaved%20Pictures%2Fscreenshots%20of%20apps%2Fjournal%20app%2F5.png)
+![8.png](..%2F..%2F..%2FPictures%2FSaved%20Pictures%2Fscreenshots%20of%20apps%2Fjournal%20app%2F8.png)
+![Screenshot 2025-03-22 123830.png](..%2F..%2F..%2FPictures%2FSaved%20Pictures%2Fscreenshots%20of%20apps%2Fjournal%20app%2FScreenshot%202025-03-22%20123830.png)
+![1.png](..%2F..%2F..%2FPictures%2FSaved%20Pictures%2Fscreenshots%20of%20apps%2Fjournal%20app%2F1.png)
