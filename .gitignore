@@ -5,6 +5,8 @@
 *.swp
 .buildlog/
 .history
+.idea/
+build/
 
 
 
@@ -14,5 +16,6 @@
 .flutter-plugins
 .flutter-plugins-dependencies
 .pub/
+
 
 app.*.symbols
